@@ -14,15 +14,6 @@ Además del desarrollo, participo en decisiones de arquitectura, automatización
 
 Me motiva construir software mantenible y plataformas que puedan evolucionar de forma segura y sostenible a largo plazo.
 
-## Tecnologías
-
-React, React Native, Astro, TypeScript, JavaScript, Node.js, Docker, AWS, Linux, Android SDK, iOS SDK, Git.
-
-## Idiomas
-
-- Español nativo
-- Inglés (C2 Proficient) — [EF Standard English Certificate](https://www.efset.org/cert/NJLeKf)
-
 ## Experiencias laborales
 
 ### PASAP — Technical Lead – Frontend & Mobile
@@ -80,6 +71,11 @@ Landing para empresa productora de alimentos orgánicos que abastece al mercado 
 **2013 – 2018** · Productora televisiva argentina que realiza ficción en formato de tira diaria, semanal y unitarios, basándose en un formato de telenovela, que mezcla aspectos costumbristas con acción, drama, comedia, policial y suspenso.
 
 - Desarrollé tareas en las áreas de logística y mantenimiento de la empresa: encargado de personal, contacto con proveedores por servicios para la empresa, facturación, liquidaciones de sueldo, implementación de métodos y planillas para agilizar tareas, coordinación con el área de producción, compra y reposición de stock de insumos de limpieza y librería, entre otras.
+
+## Idiomas
+
+- Español nativo
+- Inglés (C2 Proficient) — [EF Standard English Certificate](https://www.efset.org/cert/NJLeKf)
 
 ## Estudios
 
