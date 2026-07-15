@@ -43,7 +43,7 @@ Mi trabajo se centra en resolver los desafíos que aparecen después del lanzami
 
 ### Casa Extraña — Co Fundador y tatuador
 
-**2018 – actualidad** · Estudio privado de tatuajes en Buenos Aires, Argentina.
+**2018 – 2022** · Estudio privado de tatuajes en Buenos Aires, Argentina.
 
 ### Polka Producciones — Administrativo
 
@@ -88,8 +88,13 @@ SPA donde encuentras todos los países del mundo y algunas características.
 
 ## Estudios
 
+- **UTN** — Curso avanzado de videojuegos en Unity (Jun 2025 – Oct 2025)
+  - Prototipado: objetos, movimiento, interacciones y condiciones de victoria/derrota.
+  - Estética y exportación: gráficos, audio, iluminación, UI y builds mobile.
+  - Prototipado avanzado: física, animaciones, IA de movimiento y toma de decisiones.
+  - Estética y finalizado avanzado: terrenos, iluminación avanzada, optimización, estructuras de datos y Unity 2D.
 - **Soy Henry** — Full Stack Web Developer (2022) · [Certificado](https://certificates.soyhenry.com/cert?id=fa567018-a6e3-4b63-a2a4-48881edb7ff5)
   - HTML, CSS, JavaScript, Node.js, React.js, Redux, PostgreSQL, Sequelize y Express.
-- **Educación IT** — Seguridad Web (2016)
+- **Educación IT** — Seguridad Web (Ene 2016 - Abril 2016)
   - Ethical Hacking, SQL Injection & XSS, Seguridad en web, Network hacking e introducción a Linux.
 - **Secundario completo** — Título Bachiller con capacitación laboral en informática (2011)
