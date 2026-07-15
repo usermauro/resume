@@ -41,6 +41,34 @@ Mi trabajo se centra en resolver los desafíos que aparecen después del lanzami
 - Dockerizar las aplicaciones web
 - Participar en el mantenimiento de infraestructura sobre AWS y servidores Linux
 
+### Rental Service — Backend Software Engineer
+
+**Sep 2023 – Dic 2023** · Freelance · Argentina · Remoto
+
+Diseñé la arquitectura y desarrollé el backend de una plataforma interna para la gestión de stock de Rental Service, empresa dedicada a servicios de apoyo para la extracción de petróleo y gas, con el objetivo de centralizar y optimizar el control de inventario.
+
+Implementé la infraestructura sobre AWS, desplegando la aplicación en EC2, utilizando PostgreSQL sobre RDS para la persistencia de datos e integrando Amazon S3 para el almacenamiento de imágenes. La plataforma permitió gestionar el inventario y los usuarios mediante operaciones de alta, baja y modificación (ABM), mejorando la trazabilidad, el control operativo y la disponibilidad de la información.
+
+### Qori — Full Stack Developer
+
+**Sep 2022 – Oct 2022** · Freelance · Lima, Perú · Híbrido
+
+DApp que ofrece cursos de criptomonedas pagando en distintas redes de la blockchain.
+
+- Optimizar y modular el código, crear y modificar componentes
+- Crear un sistema de selección de redes blockchain (backend–frontend) desde una address usando distintos contratos inteligentes mediante Web3
+- Implementar Redux Toolkit en el front
+
+Programador Senior a cargo del proyecto: Juan José Miranda.
+
+### Punta y Hacha — Front End Developer
+
+[www.puntayhacha.com.ar](https://puntayhacha.com.ar/)
+
+SPA para empresa productora de alimentos orgánicos que abastece al mercado global y local.
+
+- Tecnologías y tareas: JavaScript, React.js y Redux. Diseño UX/UI.
+
 ### Casa Extraña — Co Fundador y tatuador
 
 **2018 – 2022** · Estudio privado de tatuajes en Buenos Aires, Argentina.
@@ -50,24 +78,6 @@ Mi trabajo se centra en resolver los desafíos que aparecen después del lanzami
 **2013 – 2018** · Productora televisiva argentina que realiza ficción en formato de tira diaria, semanal y unitarios, basándose en un formato de telenovela, que mezcla aspectos costumbristas con acción, drama, comedia, policial y suspenso.
 
 - Desarrollé tareas en las áreas de logística y mantenimiento de la empresa: encargado de personal, contacto con proveedores por servicios para la empresa, facturación, liquidaciones de sueldo, implementación de métodos y planillas para agilizar tareas, coordinación con el área de producción, compra y reposición de stock de insumos de limpieza y librería, entre otras.
-
-## Proyectos
-
-### Bue! — Front End Developer
-
-[Web](https://main.d33rhbzzi8y0oq.amplifyapp.com/) · [Repositorio](https://github.com/userMauro/bue)
-
-SPA para startup que ofrece servicios tecnológicos.
-
-- Tecnologías y tareas: JavaScript, React.js, Redux y Sass. Diseño UX/UI.
-
-### Punta y Hacha — Front End Developer
-
-[www.puntayhacha.com.ar](https://puntayhacha.com.ar/)
-
-SPA para empresa productora de alimentos orgánicos que abastece al mercado global y local.
-
-- Tecnologías y tareas: JavaScript, React.js y Redux. Diseño UX/UI.
 
 ## Estudios
 
