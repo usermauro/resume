@@ -27,7 +27,7 @@ React, React Native, Astro, TypeScript, JavaScript, Node.js, Docker, AWS, Linux,
 
 ### PASAP — Technical Lead – Frontend & Mobile
 
-**Nov 2022 – actualidad** · Full-time · Argentina · Híbrido
+**Nov 2022 – actualidad** · Full-time · CABA, Argentina · Híbrido
 
 Desde hace casi cuatro años me desempeño como principal desarrollador y referente técnico de tres productos en producción, liderando su desarrollo, mantenimiento y evolución tecnológica, con foco en garantizar su estabilidad, continuidad operativa y evolución a largo plazo.
 
@@ -43,7 +43,7 @@ Mi trabajo se centra en resolver los desafíos que aparecen después del lanzami
 
 ### Rental Service — Backend Software Engineer
 
-**Sep 2023 – Dic 2023** · Freelance · Argentina · Remoto
+**Sep 2023 – Dic 2023** · Freelance · Provincia de Buenos Aires, Argentina · Remoto
 
 Diseñé la arquitectura y desarrollé el backend de una plataforma interna para la gestión de stock de Rental Service, empresa dedicada a servicios de apoyo para la extracción de petróleo y gas, con el objetivo de centralizar y optimizar el control de inventario.
 
@@ -51,7 +51,7 @@ Implementé la infraestructura sobre AWS, desplegando la aplicación en EC2, uti
 
 ### Qori — Full Stack Developer
 
-**Sep 2022 – Oct 2022** · Freelance · Lima, Perú · Híbrido
+**Sep 2022 – Oct 2022** · Freelance · Lima, Perú · Remoto
 
 DApp que ofrece cursos de criptomonedas pagando en distintas redes de la blockchain.
 
@@ -61,13 +61,15 @@ DApp que ofrece cursos de criptomonedas pagando en distintas redes de la blockch
 
 Programador Senior a cargo del proyecto: Juan José Miranda.
 
-### Punta y Hacha — Front End Developer
+### Punta y Hacha — Frontend Developer
+
+**Ago 2022** · Freelance · Provincia de Buenos Aires, Argentina · Remoto
 
 [www.puntayhacha.com.ar](https://puntayhacha.com.ar/)
 
-SPA para empresa productora de alimentos orgánicos que abastece al mercado global y local.
+Landing para empresa productora de alimentos orgánicos que abastece al mercado global y local.
 
-- Tecnologías y tareas: JavaScript, React.js y Redux. Diseño UX/UI.
+- Tecnologías: React.js, Redux.js
 
 ### Casa Extraña — Co Fundador y tatuador
 
