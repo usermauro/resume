@@ -69,23 +69,6 @@ SPA para empresa productora de alimentos orgánicos que abastece al mercado glob
 
 - Tecnologías y tareas: JavaScript, React.js y Redux. Diseño UX/UI.
 
-### Astronet [Académico] — Full Stack Web Developer
-
-[Repositorio](https://github.com/vlmnst/AstroNet)
-
-E-commerce de productos tecnológicos, aplicación para celular.
-
-- Diseñada y desarrollada en React Native con estilos en CSS, servidor con Node.js, Express.js y base de datos en MongoDB (Mongoose ODM), login con Google, bcrypt y JWT, notificaciones con Nodemailer, guardado de imágenes en Cloudinary y pasarela de pagos con Mercado Pago.
-- Mis tareas: organización general del proyecto, configuración del servidor y su seguridad, creación y conexión con base de datos, sistema de creación y autenticación de usuarios (con persistencia), gestión de permisos para abrir galería y cámara de fotos.
-
-### Countries [Académico] — Full Stack Web Developer
-
-[Web](https://countries-ten-theta.vercel.app/) · [Repositorio](https://github.com/userMauro/individual-project)
-
-SPA donde encuentras todos los países del mundo y algunas características.
-
-- Tecnologías: Node.js, Express.js, React.js, Redux, API REST, PostgreSQL y Sequelize.
-
 ## Estudios
 
 - **UTN** — Curso avanzado de videojuegos en Unity (Jun 2025 – Oct 2025)
