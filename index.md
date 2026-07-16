@@ -2,7 +2,7 @@
 
 **Software Engineer** · Technical Lead – Frontend & Mobile
 
-[mauroncioci@gmail.com](mailto:mauroncioci@gmail.com) · [GitHub](https://github.com/userMauro) · [LinkedIn](https://www.linkedin.com/in/mauro-nuñez-cioci-developer/) · [Portfolio](https://portfolio-git-main-usermauro.vercel.app/) · Buenos Aires, Argentina
+[mauroncioci@gmail.com](mailto:mauroncioci@gmail.com) · [GitHub](https://github.com/usermauro) · [LinkedIn](https://www.linkedin.com/in/mauro-nuñez-cioci-developer/) · Buenos Aires, Argentina
 
 ## Sobre mí
 
