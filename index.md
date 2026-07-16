@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Soy Software Engineer especializado en el desarrollo y mantenimiento de aplicaciones web y móviles, con más de cuatro años como principal desarrollador y referente técnico de tres productos en producción.
+Software Engineer especializado en el desarrollo y mantenimiento de aplicaciones web y móviles, con más de cuatro años como principal desarrollador y referente técnico de tres productos en producción.
 
 Mi experiencia se centra en los desafíos que llegan después del MVP: mantener aplicaciones estables, liderar migraciones tecnológicas, reducir deuda técnica, optimizar procesos de despliegue y asegurar la evolución continua de plataformas en producción. He trabajado principalmente con React, React Native y Astro, liderando actualizaciones complejas del ecosistema móvil, incluyendo migraciones entre versiones principales de React Native, Android SDK, iOS SDK y la transición a la nueva arquitectura Fabric.
 
